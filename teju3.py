@@ -1,0 +1,2 @@
+print("java")
+print("python")
